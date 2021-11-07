@@ -24,6 +24,7 @@ body {
 	border-bottom: 1px solid #d3d3d3;
 	border-right: 1px solid #d3d3d3;
 	border-left: 1px solid #d3d3d3;
+  border-radius: 25px;
 	padding-right: 30px;
 	font: 16px arial, sans-serif;
 	text-indent:5px;
